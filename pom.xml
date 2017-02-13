@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>dk.erikzielke.modelgenerator</groupId>
     <artifactId>modelgenerator-maven-plugin</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.5.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
     <name>modelgenerator-maven-plugin Maven Mojo</name>
     <url>http://maven.apache.org</url>
@@ -40,7 +40,7 @@
         <dependency>
             <groupId>ModelGenerator</groupId>
             <artifactId>ModelGenerator</artifactId>
-            <version>1.2.1-20150424.073333-1</version>
+            <version>1.5.1-SNAPSHOT</version>
         </dependency>
 
 
