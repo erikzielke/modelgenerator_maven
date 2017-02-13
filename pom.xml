@@ -41,7 +41,7 @@
         <dependency>
             <groupId>ModelGenerator</groupId>
             <artifactId>ModelGenerator</artifactId>
-            <version>1.6.1-SNAPSHOT</version>
+            <version>1.6.1-20170213.090002-1</version>
         </dependency>
 
 
