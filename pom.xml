@@ -1,13 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+         
+    <!-- in articatory: plugins-snapshot-local/dk/erikzielke/modelgenerator/modelgenerator-maven-plugin -->
     <modelVersion>4.0.0</modelVersion>
     <groupId>dk.erikzielke.modelgenerator</groupId>
     <artifactId>modelgenerator-maven-plugin</artifactId>
-    <version>1.5.1-SNAPSHOT</version>
+    <version>1.6.1-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
     <name>modelgenerator-maven-plugin Maven Mojo</name>
     <url>http://maven.apache.org</url>
-
 
     <distributionManagement>
         <snapshotRepository>
@@ -16,7 +17,7 @@
             <url>http://mvn.rfw.dk/libs-snapshot-local</url>
         </snapshotRepository>
     </distributionManagement>
-
+	
     <repositories>
         <repository>
             <snapshots>
@@ -40,7 +41,7 @@
         <dependency>
             <groupId>ModelGenerator</groupId>
             <artifactId>ModelGenerator</artifactId>
-            <version>1.5.1-SNAPSHOT</version>
+            <version>1.6.1-SNAPSHOT</version>
         </dependency>
 
 
