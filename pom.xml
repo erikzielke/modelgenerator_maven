@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>dk.erikzielke.modelgenerator</groupId>
     <artifactId>modelgenerator-maven-plugin</artifactId>
-    <version>1.6.2-SNAPSHOT</version>
+    <version>1.6.3-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
     <name>modelgenerator-maven-plugin Maven Mojo</name>
     <url>http://maven.apache.org</url>
